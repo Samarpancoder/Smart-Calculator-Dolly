@@ -1,3 +1,4 @@
+"""A simple Scientific Calculator in python"""
 from tkinter import *
 from tkinter import messagebox
 import math
